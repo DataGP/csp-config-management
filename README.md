@@ -20,7 +20,7 @@ For more information on Anthos Config Management, please reference the
 ### [Foo-Corp](foo-corp/)
 
 A single cluster example showing several features of Anthos Config Management
-working together
+working together.
 
 ### [Hello, Namespace!](hello-namespace/)
 
